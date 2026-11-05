@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "schema": 1,
+  "updated": "2026-11-05",
+  "extensions": [
+    {
+      "id": "servo",
+      "name": "Servomotor",
+      "description": "Servomoteurs (attach / angle / lecture) — Arduino + MicroPython.",
+      "version": "1.1.0",
+      "license": "AGPL-3.0-or-later",
+      "github": "https://github.com/BlocklyDuino/block_servomotor",
+      "branch": "main",
+      "packPath": "servo",
+      "icon": "servo/servo.jpg",
+      "levels": "1,2,3",
+      "generators": ["arduino", "micropython"]
+    }
+  ]
+}
